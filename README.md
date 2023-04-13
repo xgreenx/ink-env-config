@@ -1,0 +1,1 @@
+This repository contains all types and constants of the `ink::env::Environment` trait.
